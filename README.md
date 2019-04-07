@@ -1,2 +1,2 @@
 # Spotify-Playlist-Downloader
-To run the program, first install youtube-dl (https://github.com/ytdl-org/youtube-dl) and then (compile everything and) run Main.
+To run the program, first install youtube-dl (https://github.com/ytdl-org/youtube-dl) and then run the jar file. The 1st box should be the url of the spotify playlist, and the 2nd box should be the name of the folder to put the files in. Once the download button is pressed, it will start downloading the files and a popup that says "Success!" should pop up. The download is pretty slow so try to test on small playlists(1-5 songs) for it not to take too long.
